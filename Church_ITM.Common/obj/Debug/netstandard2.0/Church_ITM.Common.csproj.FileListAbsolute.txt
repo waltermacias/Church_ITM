@@ -1,0 +1,12 @@
+C:\Projects\Church_ITM\Church_ITM.Common\bin\Debug\netstandard2.0\Church_ITM.Common.deps.json
+C:\Projects\Church_ITM\Church_ITM.Common\bin\Debug\netstandard2.0\Church_ITM.Common.dll
+C:\Projects\Church_ITM\Church_ITM.Common\obj\Debug\netstandard2.0\Church_ITM.Common.csprojAssemblyReference.cache
+C:\Projects\Church_ITM\Church_ITM.Common\obj\Debug\netstandard2.0\Church_ITM.Common.AssemblyInfoInputs.cache
+C:\Projects\Church_ITM\Church_ITM.Common\obj\Debug\netstandard2.0\Church_ITM.Common.AssemblyInfo.cs
+C:\Projects\Church_ITM\Church_ITM.Common\bin\Debug\netstandard2.0\Church_ITM.Common.pdb
+C:\Projects\Church_ITM\Church_ITM.Common\obj\Debug\netstandard2.0\Church_ITM.Common.csproj.CoreCompileInputs.cache
+C:\Projects\Church_ITM\Church_ITM.Common\obj\Debug\netstandard2.0\Church_ITM.Common.dll
+C:\Projects\Church_ITM\Church_ITM.Common\obj\Debug\netstandard2.0\Church_ITM.Common.pdb
+C:\Projects\Church_ITM\Church_ITM.Common\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+C:\Projects\Church_ITM\Church_ITM.Common\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
+C:\Projects\Church_ITM\Church_ITM.Common\obj\Debug\netstandard2.0\Church_ITM.Common.csproj.CopyComplete
